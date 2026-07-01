@@ -118,8 +118,3 @@ Full documentation is in the [`documentation/`](documentation/) folder:
 | [07 Business Insights](documentation/07_Business_Insights.md) | Data-backed findings across revenue, timing, and retention |
 | [08 Recommendations](documentation/08_Recommendations.md) | Prioritised business recommendations with supporting data |
 
----
-
-## 📬 Contact
-
-Feel free to open an issue or submit a pull request for suggestions or improvements.
